@@ -1,4 +1,9 @@
 
 def my_each(collection)
-  9
+  index = 0 
+  while (index < collection.length)
+    yeild 
+ end
+
+
 end
